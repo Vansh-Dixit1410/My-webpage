@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital@1&family=Roboto&display=swap');
 
-@import 'container.css';
+@import "container.css";
 @import 'avatar.css';
 @import 'button.css';
 @import 'banner.css';
